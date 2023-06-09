@@ -1,0 +1,17 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Get research paper from arxiv",
+    "name_for_model": "research-helper",
+    "description_for_human": "Plugin for getting research paper from arxiv on a given topic.",
+    "description_for_model": "Plugin for getting research paper from arxiv on a given topic.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "http://127.0.0.1:5000/openapi.yaml"
+    },
+    "logo_url": "http://127.0.0.1:5000/logo.png",
+    "contact_email": "rsayan553@gmail.com",
+    "legal_info_url": "https://example.com/legal"
+}

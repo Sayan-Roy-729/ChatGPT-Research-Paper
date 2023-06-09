@@ -1,0 +1,2 @@
+paperswithcode-client==0.3.1
+Flask==2.3.2
